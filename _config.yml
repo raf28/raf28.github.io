@@ -1,0 +1,2 @@
+# Pubblica anche la cartella .well-known (verifica app Android KalRaf28)
+include: [".well-known"]
