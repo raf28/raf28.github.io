@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.raf28.kalraf28",
+      "sha256_cert_fingerprints": [
+        "4C:85:2C:86:F2:3B:2E:69:6B:C3:98:EF:C9:A7:53:8A:C0:E1:C4:63:0A:F3:88:CE:AD:59:52:BB:93:F2:4A:CF"
+      ]
+    }
+  }
+]
